@@ -15,6 +15,8 @@
 
 Sleep is an innate animal behavior—not a learned skill.  
 Insomnia is not a disease, but a failure to trigger the instinct due to incorrect posture.
+This is an original theoretical framework independently proposed and developed by the author, 
+based on deductive logic and evolutionary reasoning.
 
 This theory was originally written in Traditional Chinese, then translated into English.  
 The current version (v1.0-final) was released on June 1, 2025.
@@ -25,6 +27,7 @@ The current version (v1.0-final) was released on June 1, 2025.
 
 睡眠是一種與生俱來的動物本能，而不是後天學習的技能。  
 所謂「失眠」，並非疾病，而是因身體姿勢錯誤導致無法觸發本能所造成的失效狀態。
+本理論由作者獨立提出與建構，係以演繹邏輯與演化推理為基礎所建立之原創理論架構。
 
 本理論最初以繁體中文撰寫，後由作者翻譯為英文。本倉庫所發表為 v1.0 最終正式版（2025 年 6 月 1 日）。
 
