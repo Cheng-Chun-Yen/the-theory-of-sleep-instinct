@@ -83,6 +83,43 @@ Independent Researcher, Taipei, Taiwan
 
 ---
 
+## 🔗 On-Chain Publication Record (Mirror.xyz)
+
+📄 Title: The Theory of Sleep Instinct — v1.0 Final (Official Release and Blockchain Record)  
+📆 Published on-chain: June 1, 2025  
+🧑‍💻 Author: Cheng-Chun Yen (wallet address: 0x6c70…aAF8)  
+🔗 Mirror entry:  
+https://mirror.xyz/0x6c706D9585A906a648Ecc8FC50Ee2f2E19c2aAF8/pHs_ZBYeSEYUTzuf_IZHfQL2yQXmvCADSIFnmCAE0Ck
+
+📎 This on-chain publication serves as an immutable timestamp and authorship proof for v1.0-final.  
+It shall be considered the canonical version for citation, adaptation, translation, and derivative works.  
+📄 Verified PDF files and SHA256 checksums:
+
+| Version | SHA256 Checksum |
+|---------|------------------|
+| 🇬🇧 English PDF | `32f87e0187871bd56f954ca3f054ceb6163684bd8c3a5400c7f4751f1a0028b4` |
+| 🇨🇳 Chinese PDF | `0db71e1aa9f173fece43c1d93ef85386b5a6a15d9eaf6f13177deabd43a47356` |
+
+---
+
+## 🔗 上鏈封存紀錄（Mirror.xyz）
+
+📄 封存標題：The Theory of Sleep Instinct — v1.0 Final（正式發表與上鏈封存說明）  
+📆 上鏈時間：2025 年 6 月 1 日  
+🧑‍💻 發佈作者：顏誠均（Cheng-Chun Yen，地址 0x6c70…aAF8）  
+🔗 上鏈網址：  
+https://mirror.xyz/0x6c706D9585A906a648Ecc8FC50Ee2f2E19c2aAF8/pHs_ZBYeSEYUTzuf_IZHfQL2yQXmvCADSIFnmCAE0Ck
+
+📎 本次上鏈目的為建立本理論 v1.0-final 之不可竄改紀錄，並作為所有延伸應用與發表之正式原點。未來引用、改寫、翻譯或二創，皆須以此版本為唯一認定基準。  
+📄 雙語 PDF 連結與 SHA256 驗證碼如下：
+
+| 檔案版本 | SHA256 驗證碼 |
+|----------|----------------|
+| 🇬🇧 英文 PDF | `32f87e0187871bd56f954ca3f054ceb6163684bd8c3a5400c7f4751f1a0028b4` |
+| 🇨🇳 中文 PDF | `0db71e1aa9f173fece43c1d93ef85386b5a6a15d9eaf6f13177deabd43a47356` |
+
+---
+
 ## ⚖️ License & Use
 
 This repository and all its contents are © 2025 Cheng-Chun Yen.  
