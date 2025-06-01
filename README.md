@@ -2,6 +2,9 @@
 **Official Release – Version 1.0-final**  
 《睡眠本能理論》v1.0 正式發表版
 
+📘 Current version: **v1.0-final** (2025-06-01) — Officially published and archived on-chain.  
+📘 目前版本：**v1.0-final**（2025 年 6 月 1 日）— 已正式發布並完成區塊鏈封存。
+
 ---
 
 ## 📄 Download / 下載 PDF
