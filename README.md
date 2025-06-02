@@ -1,3 +1,28 @@
+## ⚠️ Serious Legal Warning – Copyright Violation Will Be Pursued  
+⚠️ 嚴重法律警告：侵犯本理論著作權將依法追訴
+
+This theoretical work is protected by copyright.  
+All versions have been immutably recorded on blockchain (Mirror.xyz) and timestamped on Zenodo, GitHub, and ORCID.  
+The author is actively monitoring all platforms for unauthorized use, adaptation, or republishing.
+
+Any attempt to reproduce, reframe, paraphrase, or commercially apply this theory—whether partially or fully—will be 
+considered intentional infringement, and may result in public exposure and legal action.
+This includes unauthorized use in lectures, therapy programs, publications, or derivative media.
+
+本理論著作已於區塊鏈（Mirror.xyz）封存，並於 Zenodo、GitHub、ORCID 等平台保留可驗證之原創紀錄。  
+作者目前正主動監控網路上所有引用、散播與可能包裝轉用之行為。  
+
+未經授權擅自轉載、改寫、重組、翻譯，或以任何形式商業使用本理論內容者  
+（包括但不限於課程、療法、出版、導購內容），  
+皆視為「蓄意侵權」，作者將依法追訴，並於必要時進行公開揭露與跨平台反制行動。
+
+📌 First published: 2025-06-01 (v1.0-final)  
+📌 DOI: https://doi.org/10.5281/zenodo.15574197  
+📌 Mirror: https://mirror.xyz/0x6c706D9585A906a648Ecc8FC50Ee2f2E19c2aAF8/pHs_ZBYeSEYUTzuf_IZHfQL2yQXmvCADSIFnmCAE0Ck  
+📌 ORCID: https://orcid.org/0000-0005-9740-1701
+
+## About this repository
+
 # The Theory of Sleep Instinct  
 **Official Release – Version 1.0-final**  
 《睡眠本能理論》v1.0 正式發表版
