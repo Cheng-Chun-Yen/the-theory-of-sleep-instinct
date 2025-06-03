@@ -121,12 +121,20 @@ https://mirror.xyz/0x6c706D9585A906a648Ecc8FC50Ee2f2E19c2aAF8/pHs_ZBYeSEYUTzuf_I
 
 📎 This on-chain publication serves as an immutable timestamp and authorship proof for v1.0-final.  
 It shall be considered the canonical version for citation, adaptation, translation, and derivative works.  
-📄 Verified PDF files and SHA256 checksums:
 
-| Version | SHA256 Checksum |
-|---------|------------------|
+📄 Verified PDF Files & SHA256 Checksums (hosted on GitHub)
+
+These files represent the finalized v1.0 release of *The Theory of Sleep Instinct*.  
+The SHA256 checksums are provided to verify file authenticity and protect against unauthorized modifications.
+
+| Version        | SHA256 Checksum |
+|----------------|------------------|
 | 🇬🇧 English PDF | `32f87e0187871bd56f954ca3f054ceb6163684bd8c3a5400c7f4751f1a0028b4` |
 | 🇨🇳 Chinese PDF | `0db71e1aa9f173fece43c1d93ef85386b5a6a15d9eaf6f13177deabd43a47356` |
+
+📎 GitHub Download Links:
+- [English PDF (v1.0-final)](https://github.com/Cheng-Chun-Yen/the-theory-of-sleep-instinct/blob/main/The-Theory-of-Sleep-Instinct-v1.0-final-English.pdf)
+- [Chinese PDF (v1.0-final)](https://github.com/Cheng-Chun-Yen/the-theory-of-sleep-instinct/blob/main/The-Theory-of-Sleep-Instinct-v1.0-final-Chinese.pdf)
 
 ---
 
