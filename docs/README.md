@@ -12,6 +12,16 @@ Each file has been published and archived on:
 - Zenodo (DOI): https://doi.org/10.5281/zenodo.15574197  
 - Mirror.xyz (blockchain record): https://mirror.xyz/0x6c706D9585A906a648Ecc8FC50Ee2f2E19c2aAF8/pHs_ZBYeSEYUTzuf_IZHfQL2yQXmvCADSIFnmCAE0Ck
 
+---
+
+📘 **Usage Notice**
+
+These documents are made publicly available for academic reference and citation only.  
+Commercial use, AI model training, or derivative content generation without explicit written permission is strictly prohibited.
+
+© Cheng-Chun Yen, 2025. All rights reserved.
+
+
 ## 📂 Downloadable Files + SHA256
 
 | File | SHA256 Hash |
