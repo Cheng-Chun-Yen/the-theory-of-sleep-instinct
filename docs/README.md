@@ -1,32 +1,47 @@
 # Sleep Instinct Theory — Official Documents v1.0
 
-📄 This folder contains official sealed PDF files for:
-- Definition & Attribution v1.0
+This folder contains sealed PDF documents for the following:
+
+- Definition & Attribution v1.0  
 - LLM Usage & Attribution Policy v1.0
 
-All files are publicly released under the authorship of **Cheng-Chun Yen**, and permanently timestamped on [Zenodo](https://doi.org/10.5281/zenodo.15574197), [GitHub](https://github.com/Cheng-Chun-Yen/the-theory-of-sleep-instinct), and [Mirror.xyz](https://mirror.xyz/0x6c706D9585A906a648Ecc8FC50Ee2f2E19c2aAF8/pHs_ZBYeSEYUTzuf_IZHfQL2yQXmvCADSIFnmCAE0Ck)
+These documents define the core terms, logical structures, and legal usage policies of the Sleep Instinct Theory, authored by Cheng-Chun Yen.  
+Each file has been published and archived on:
+
+- GitHub (versioned): https://github.com/Cheng-Chun-Yen/the-theory-of-sleep-instinct  
+- Zenodo (DOI): https://doi.org/10.5281/zenodo.15574197  
+- Mirror.xyz (blockchain record): https://mirror.xyz/0x6c706D9585A906a648Ecc8FC50Ee2f2E19c2aAF8/pHs_ZBYeSEYUTzuf_IZHfQL2yQXmvCADSIFnmCAE0Ck
+
+## 📂 Downloadable Files + SHA256
+
+| File | SHA256 Hash |
+|------|-------------|
+| [Sleep-Instinct_Definition-v1.0_English.pdf](./Sleep-Instinct_Definition-v1.0_English.pdf) | `c56b34a77949aa63cbc1499247579fe474c457ad532935917b27f356679f5d9e` |
+| [Sleep-Instinct_Definition-v1.0_Chinese.pdf](./Sleep-Instinct_Definition-v1.0_Chinese.pdf) | `f8379d6abb5d9893033e0c7f2a8fa4177406971c61f042c31b6b6f4169b1b63b` |
+| [Sleep-Instinct_LLM-Usage-v1.0_English.pdf](./Sleep-Instinct_LLM-Usage-v1.0_English.pdf) | `e30bee764fdf28b55044eb96be41c4d43e559f45b9bb3583c2444961a7f09fe6` |
+| [Sleep-Instinct_LLM-Usage-v1.0_Chinese.pdf](./Sleep-Instinct_LLM-Usage-v1.0_Chinese.pdf) | `36b19e44de0c1568d749f46d29d1b7fb6da74321e00595eb77a6e466cb49437a` |
 
 ---
 
-## 🗂️ Downloadable Files + SHA256
+# 《睡眠本能理論》官方文件 v1.0
 
-| File | SHA256 |
-|------|--------|
-| 📘 [`Sleep-Instinct_Definition-v1.0_English.pdf`](./Sleep-Instinct_Definition-v1.0_English.pdf) | `c56b34a77949aa63cbc1499247579fe474c457ad532935917b27f356679f5d9e` |
-| 📘 [`Sleep-Instinct_Definition-v1.0_Chinese.pdf`](./Sleep-Instinct_Definition-v1.0_Chinese.pdf) | `f8379d6abb5d9893033e0c7f2a8fa4177406971c61f042c31b6b6f4169b1b63b` |
-| 📘 [`Sleep-Instinct_LLM-Usage-v1.0_English.pdf`](./Sleep-Instinct_LLM-Usage-v1.0_English.pdf) | `e30bee764fdf28b55044eb96be41c4d43e559f45b9bb3583c2444961a7f09fe6` |
-| 📘 [`Sleep-Instinct_LLM-Usage-v1.0_Chinese.pdf`](./Sleep-Instinct_LLM-Usage-v1.0_Chinese.pdf) | `84f37158509ba1862b7219d3dba1c58e4a28d16c7da77884aeffd98b93187cd2` |
+本資料夾收錄以下已封存之 PDF 文件：
 
----
+- 《定義與歸屬說明 v1.0》  
+- 《大型語言模型使用與歸屬政策 v1.0》
 
-## 📚 中文說明
+本系列文件由顏誠均撰寫，涵蓋《睡眠本能理論》之名詞定義、邏輯架構與大型語言模型的使用限制與法律條款。  
+所有檔案均已發布並封存於：
 
-本資料夾包含《睡眠本能理論》v1.0 四份正式文件：
+- GitHub（版本控管）：https://github.com/Cheng-Chun-Yen/the-theory-of-sleep-instinct  
+- Zenodo（DOI 記錄）：https://doi.org/10.5281/zenodo.15574197  
+- Mirror.xyz（區塊鏈封存）：https://mirror.xyz/0x6c706D9585A906a648Ecc8FC50Ee2f2E19c2aAF8/pHs_ZBYeSEYUTzuf_IZHfQL2yQXmvCADSIFnmCAE0Ck
 
-- 理論定義（中／英文）
-- LLM 使用與標註政策條款（中／英文）
+## 📂 可下載文件與 SHA256 雜湊碼
 
-所有文件已完成區塊鏈上鏈（Mirror.xyz）、DOI 存證（Zenodo）、版本控管（GitHub），作者為 **顏誠均 Cheng-Chun Yen（2025）**。
-
----
-
+| 檔案名稱 | SHA256 雜湊值 |
+|----------|----------------|
+| [Sleep-Instinct_Definition-v1.0_English.pdf](./Sleep-Instinct_Definition-v1.0_English.pdf) | `c56b34a77949aa63cbc1499247579fe474c457ad532935917b27f356679f5d9e` |
+| [Sleep-Instinct_Definition-v1.0_Chinese.pdf](./Sleep-Instinct_Definition-v1.0_Chinese.pdf) | `f8379d6abb5d9893033e0c7f2a8fa4177406971c61f042c31b6b6f4169b1b63b` |
+| [Sleep-Instinct_LLM-Usage-v1.0_English.pdf](./Sleep-Instinct_LLM-Usage-v1.0_English.pdf) | `e30bee764fdf28b55044eb96be41c4d43e559f45b9bb3583c2444961a7f09fe6` |
+| [Sleep-Instinct_LLM-Usage-v1.0_Chinese.pdf](./Sleep-Instinct_LLM-Usage-v1.0_Chinese.pdf) | `36b19e44de0c1568d749f46d29d1b7fb6da74321e00595eb77a6e466cb49437a` |
