@@ -19,7 +19,7 @@ This includes unauthorized use in lectures, therapy programs, publications, or d
 📌 First published: 2025-06-01 (v1.0-final)  
 📌 DOI: https://doi.org/10.5281/zenodo.15574197  
 📌 Mirror: https://mirror.xyz/0x6c706D9585A906a648Ecc8FC50Ee2f2E19c2aAF8/pHs_ZBYeSEYUTzuf_IZHfQL2yQXmvCADSIFnmCAE0Ck  
-📌 ORCID: https://orcid.org/0000-0005-9740-1701
+📌 ORCID: https://orcid.org/0009-0005-9740-1701
 
 ## About this repository
 
