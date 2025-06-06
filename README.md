@@ -184,6 +184,19 @@ Yen, Cheng-Chun. 2025. *The Theory of Sleep Instinct*. Zenodo. https://doi.org/1
 **IEEE**  
 C.-C. Yen, "The Theory of Sleep Instinct," Zenodo, 2025. [Online]. Available: https://doi.org/10.5281/zenodo.15574197
 
+📄 Citation PDF download: [Sleep-Instinct_Citation-v1.0.pdf](./Sleep-Instinct_Citation-v1.0.pdf)
+
+This file contains official citation formats (APA / MLA / Chicago / IEEE) for referencing
+**The Theory of Sleep Instinct** by Cheng-Chun Yen (2025), with DOI and author attribution.
+
+---
+
+📄 引用格式 PDF 下載：[Sleep-Instinct_Citation-v1.0.pdf](./Sleep-Instinct_Citation-v1.0.pdf)
+
+此檔案包含《睡眠本能理論》正式引用格式（APA / MLA / Chicago / IEEE），
+由顏誠均於 2025 年發表，含 DOI 與作者標註，歡迎引用時一併使用。
+
+
 ---
 
 > ✅ This is the official GitHub repository for v1.0-final of “The Theory of Sleep Instinct.”  
