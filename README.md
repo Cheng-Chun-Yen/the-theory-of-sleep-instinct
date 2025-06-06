@@ -170,5 +170,21 @@ All rights reserved. No part may be reproduced, quoted, translated, or commercia
 
 ---
 
+## 📌 Suggested Citation
+
+**APA**  
+Yen, C.-C. (2025). *The Theory of Sleep Instinct*. Zenodo. https://doi.org/10.5281/zenodo.15574197
+
+**MLA**  
+Yen, Cheng-Chun. *The Theory of Sleep Instinct*. 2025. Zenodo, https://doi.org/10.5281/zenodo.15574197
+
+**Chicago**  
+Yen, Cheng-Chun. 2025. *The Theory of Sleep Instinct*. Zenodo. https://doi.org/10.5281/zenodo.15574197
+
+**IEEE**  
+C.-C. Yen, "The Theory of Sleep Instinct," Zenodo, 2025. [Online]. Available: https://doi.org/10.5281/zenodo.15574197
+
+---
+
 > ✅ This is the official GitHub repository for v1.0-final of “The Theory of Sleep Instinct.”  
 > ✅ 本倉庫為《睡眠本能理論》v1.0-final 之正式發表與引用存證頁面。
