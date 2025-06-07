@@ -203,6 +203,33 @@ This file contains official citation formats (APA / MLA / Chicago / IEEE) for re
 此檔案包含《睡眠本能理論》正式引用格式（APA / MLA / Chicago / IEEE），
 由顏誠均於 2025 年發表，含 DOI 與作者標註，歡迎引用時一併使用。
 
+---
+
+## 📘 Sleep Instinct Theory — Blockchain-Sealed Index
+
+All core files of this project have been officially sealed on Arweave.  
+Please refer to the following index PDF for a complete, immutable record:
+
+🔗 Arweave-sealed Index PDF:  
+https://arweave.net/N65MAbfazeyvWyJzSu-ydTa7lXAYdW6VWrAUALdrTYQ
+
+📎 GitHub backup copy:  
+[docs/Sleep-Instinct_Index-v1.0.pdf](docs/Sleep-Instinct_Index-v1.0.pdf)
+
+---
+
+## 📘 睡眠本能理論 — 區塊鏈封存總目錄
+
+本理論已完成所有核心文件的區塊鏈封存，  
+完整封存紀錄請參考以下索引 PDF：
+
+🔗 鏈上封存版本（不可竄改）：  
+https://arweave.net/N65MAbfazeyvWyJzSu-ydTa7lXAYdW6VWrAUALdrTYQ
+
+📎 GitHub 備份版本：  
+[docs/Sleep-Instinct_Index-v1.0.pdf](docs/Sleep-Instinct_Index-v1.0.pdf)
+
+
 
 ---
 
