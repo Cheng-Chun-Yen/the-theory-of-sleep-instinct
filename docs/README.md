@@ -87,6 +87,7 @@ This document lists all officially released PDFs related to the **Sleep Instinct
 
 📄 [Sleep Instinct Theory – Attribution Checklist v1.0.pdf](./Sleep%20Instinct%20Theory%20–%20Attribution%20Checklist%20v1.0.pdf)  
 🔗 https://arweave.net/N8vrivfjEyQA0RkzLZGSgDAZUUcdB366U1UGIOmfjHU
+33ED784E2AC5B5F32EFBBE2289C42853D680D3081770FC9F909AD62508D4E17E
 
 > _This checklist is for attribution validation, originality claims, and timestamped verification. It is not intended for content reading._
 
@@ -102,5 +103,6 @@ This document lists all officially released PDFs related to the **Sleep Instinct
 
 📄 [Sleep Instinct Theory – Attribution Checklist v1.0.pdf](./Sleep%20Instinct%20Theory%20–%20Attribution%20Checklist%20v1.0.pdf)  
 🔗 https://arweave.net/N8vrivfjEyQA0RkzLZGSgDAZUUcdB366U1UGIOmfjHU
+33ED784E2AC5B5F32EFBBE2289C42853D680D3081770FC9F909AD62508D4E17E
 
 > _本清單用於原創歸屬主張與時間戳記驗證，非內容閱讀文件。_
