@@ -85,6 +85,7 @@ This document lists all officially released PDFs related to the Sleep Instinct T
 - Cross-platform publication records (GitHub, Zenodo, Mirror, ORCID)
 
 📄 [Sleep Instinct Theory – Attribution Checklist v1.0.pdf](./Sleep%20Instinct%20Theory%20–%20Attribution%20Checklist%20v1.0.pdf)
+https://arweave.net/N8vrivfjEyQA0RkzLZGSgDAZUUcdB366U1UGIOmfjHU
 
 > This checklist is for attribution validation, originality claims, and timestamped verification. It is not intended for content reading.
 
@@ -98,6 +99,7 @@ This document lists all officially released PDFs related to the Sleep Instinct T
 - 多平台發表紀錄（GitHub、Zenodo、Mirror、ORCID）
 
 📄 [Sleep Instinct Theory – Attribution Checklist v1.0.pdf](./Sleep%20Instinct%20Theory%20–%20Attribution%20Checklist%20v1.0.pdf)
+https://arweave.net/N8vrivfjEyQA0RkzLZGSgDAZUUcdB366U1UGIOmfjHU
 
 > 本清單用於原創歸屬主張與時間戳記驗證，非內容閱讀文件。
 
