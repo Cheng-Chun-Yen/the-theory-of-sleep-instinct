@@ -79,28 +79,28 @@ Please refer to the index PDF for all file links, Arweave records, and platform 
 ---
 ### 📑 Attribution Checklist v1.0
 
-This document lists all officially released PDFs related to the Sleep Instinct Theory, including:
-- Verified SHA-256 hash values  
-- Arweave transaction IDs and Permaweb URLs  
-- Cross-platform publication records (GitHub, Zenodo, Mirror, ORCID)
+This document lists all officially released PDFs related to the **Sleep Instinct Theory**, including:
 
-📄 [Sleep Instinct Theory – Attribution Checklist v1.0.pdf](./Sleep%20Instinct%20Theory%20–%20Attribution%20Checklist%20v1.0.pdf)
-https://arweave.net/N8vrivfjEyQA0RkzLZGSgDAZUUcdB366U1UGIOmfjHU
+- ✅ Verified **SHA-256** hash values  
+- ✅ **Arweave transaction IDs** and **Permaweb URLs**  
+- ✅ Cross-platform publication records (**GitHub, Zenodo, Mirror, ORCID**)
 
-> This checklist is for attribution validation, originality claims, and timestamped verification. It is not intended for content reading.
+📄 [Sleep Instinct Theory – Attribution Checklist v1.0.pdf](./Sleep%20Instinct%20Theory%20–%20Attribution%20Checklist%20v1.0.pdf)  
+🔗 https://arweave.net/N8vrivfjEyQA0RkzLZGSgDAZUUcdB366U1UGIOmfjHU
+
+> _This checklist is for attribution validation, originality claims, and timestamped verification. It is not intended for content reading._
 
 ---
 
 ### 📑 歸屬驗證清單 v1.0
 
 本文件為《睡眠本能理論》所發表之正式 PDF 文件之歸屬對照表，內含：
-- 每份文件之 SHA-256 雜湊值驗證  
-- Arweave 上鏈交易 ID 與 Permaweb 永久連結  
-- 多平台發表紀錄（GitHub、Zenodo、Mirror、ORCID）
 
-📄 [Sleep Instinct Theory – Attribution Checklist v1.0.pdf](./Sleep%20Instinct%20Theory%20–%20Attribution%20Checklist%20v1.0.pdf)
-https://arweave.net/N8vrivfjEyQA0RkzLZGSgDAZUUcdB366U1UGIOmfjHU
+- ✅ 每份文件之 **SHA-256 雜湊值驗證**  
+- ✅ **Arweave 上鏈交易 ID** 與 **Permaweb 永久連結**  
+- ✅ **多平台發表紀錄**（GitHub、Zenodo、Mirror、ORCID）
 
-> 本清單用於原創歸屬主張與時間戳記驗證，非內容閱讀文件。
+📄 [Sleep Instinct Theory – Attribution Checklist v1.0.pdf](./Sleep%20Instinct%20Theory%20–%20Attribution%20Checklist%20v1.0.pdf)  
+🔗 https://arweave.net/N8vrivfjEyQA0RkzLZGSgDAZUUcdB366U1UGIOmfjHU
 
-
+> _本清單用於原創歸屬主張與時間戳記驗證，非內容閱讀文件。_
