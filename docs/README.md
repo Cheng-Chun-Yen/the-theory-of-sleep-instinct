@@ -55,3 +55,24 @@ Commercial use, AI model training, or derivative content generation without expl
 | [Sleep-Instinct_Definition-v1.0_Chinese.pdf](./Sleep-Instinct_Definition-v1.0_Chinese.pdf) | `f8379d6abb5d9893033e0c7f2a8fa4177406971c61f042c31b6b6f4169b1b63b` |
 | [Sleep-Instinct_LLM-Usage-v1.0_English.pdf](./Sleep-Instinct_LLM-Usage-v1.0_English.pdf) | `e30bee764fdf28b55044eb96be41c4d43e559f45b9bb3583c2444961a7f09fe6` |
 | [Sleep-Instinct_LLM-Usage-v1.0_Chinese.pdf](./Sleep-Instinct_LLM-Usage-v1.0_Chinese.pdf) | `36b19e44de0c1568d749f46d29d1b7fb6da74321e00595eb77a6e466cb49437a` |
+
+---
+
+## 📘 Sleep Instinct Index — Official Documents v1.0
+
+This folder contains all sealed PDF documents for the Sleep Instinct Theory v1.0.  
+Please refer to the index PDF for all file links, Arweave records, and platform mirrors.
+
+- 🔗 [Arweave Permanent URL (Immutable)](https://arweave.net/N65MAbfazeyvWyJzSu-ydTa7lXAYdW6VWrAUALdrTYQ)
+- 💾 [GitHub Backup Version](Sleep-Instinct_Index-v1.0.pdf)
+
+---
+
+## 📘 睡眠本能理論 索引頁 — 文件總覽 v1.0
+
+本資料夾收錄《睡眠本能理論》v1.0 所有已封存之正式 PDF 文件。  
+所有鏈上連結與對應平台位置，請參考以下索引頁：
+
+- 🔗 [鏈上永久網址（不可修改）](https://arweave.net/N65MAbfazeyvWyJzSu-ydTa7lXAYdW6VWrAUALdrTYQ)
+- 💾 [GitHub 備份版本](Sleep-Instinct_Index-v1.0.pdf)
+
