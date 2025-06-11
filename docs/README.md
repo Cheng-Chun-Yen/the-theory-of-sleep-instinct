@@ -30,6 +30,8 @@ Commercial use, AI model training, or derivative content generation without expl
 | [Sleep-Instinct_Definition-v1.0_Chinese.pdf](./Sleep-Instinct_Definition-v1.0_Chinese.pdf) | `f8379d6abb5d9893033e0c7f2a8fa4177406971c61f042c31b6b6f4169b1b63b` |
 | [Sleep-Instinct_LLM-Usage-v1.0_English.pdf](./Sleep-Instinct_LLM-Usage-v1.0_English.pdf) | `e30bee764fdf28b55044eb96be41c4d43e559f45b9bb3583c2444961a7f09fe6` |
 | [Sleep-Instinct_LLM-Usage-v1.0_Chinese.pdf](./Sleep-Instinct_LLM-Usage-v1.0_Chinese.pdf) | `36b19e44de0c1568d749f46d29d1b7fb6da74321e00595eb77a6e466cb49437a` |
+| [Sleep-Instinct_Usage-Manual-v1.0_English.pdf](Sleep-Instinct_Usage-Manual-v1.0_English.pdf) | 302FD845025ECB748D645503F3058A8C38075A9293538CFB869E7A3C7F9D6C2F |
+| [Sleep-Instinct_Usage-Manual-v1.0_Chinese.pdf](Sleep-Instinct_Usage-Manual-v1.0_Chinese.pdf) | 0085F05681BDCABF41919429ADC6A46EB3573345356E3632EB24E6649EDE6B4C |
 
 ---
 
