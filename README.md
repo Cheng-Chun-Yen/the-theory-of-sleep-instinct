@@ -229,9 +229,25 @@ https://arweave.net/N65MAbfazeyvWyJzSu-ydTa7lXAYdW6VWrAUALdrTYQ
 📎 GitHub 備份版本：  
 [docs/Sleep-Instinct_Index-v1.0.pdf](docs/Sleep-Instinct_Index-v1.0.pdf)
 
-
-
 ---
 
 > ✅ This is the official GitHub repository for v1.0-final of “The Theory of Sleep Instinct.”  
 > ✅ 本倉庫為《睡眠本能理論》v1.0-final 之正式發表與引用存證頁面。
+
+---
+
+## ☕ Support This Work | 支持這項研究
+
+**EN:**  
+This repository documents the development of *The Theory of Sleep Instinct*, an independent, non-commercial research project.  
+If you find the framework insightful or wish to support further updates, you can do so via Ko-fi:  
+👉 [https://ko-fi.com/cheng_chun_yen](https://ko-fi.com/cheng_chun_yen)
+
+Your support helps sustain independent logic-based research in sleep science.
+
+**中文：**  
+本研究為獨立邏輯型理論計畫，非商業用途、無廣告、不屬任何機構支持。  
+若您認為本理論具啟發性，或希望支持後續發展，可透過 Ko-fi 贊助：  
+👉 [https://ko-fi.com/cheng_chun_yen](https://ko-fi.com/cheng_chun_yen)
+
+支持有助於持續推動以邏輯為基礎的睡眠研究。
