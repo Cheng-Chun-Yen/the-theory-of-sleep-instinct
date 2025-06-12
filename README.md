@@ -205,6 +205,54 @@ This file contains official citation formats (APA / MLA / Chicago / IEEE) for re
 
 ---
 
+## 🧾 Updated Structural Sealing: Index v1.1 + SHA256 (2025-06-12)
+
+This section documents the updated sealing record released after the official publication of *The Theory of Sleep Instinct v1.0*. It includes:
+
+- ✅ A revised index (v1.1) listing all six officially sealed documents  
+- ✅ A full SHA256 checksum table (v1.1) for verification  
+- ✅ A usage manual (available in English and Chinese)
+
+These materials serve as a forensic supplement to the original theory and are intended for structural integrity and citation purposes.
+
+### 📂 Arweave Links
+
+- 📘 Index v1.1: [View on Arweave](https://arweave.net/PWovorwuAuvELe-ZzdPD-fGrobE2UBECyp0LhnVCjyQ)  
+- 📘 Usage Manual (English): [View on Arweave](https://arweave.net/xL-hltQxtf8KGbpX4yg3xaW6jCvn9OObHVakuF7CkKY)  
+- 📘 使用手冊（中文）: [View on Arweave](https://arweave.net/Ei6TyUu1LOp-yP1uJZzEXJc-CVsuTgdvwDIIZEnd1Oo)  
+- 🧾 SHA256 Checksum: [View on Arweave](https://arweave.net/Qx3OnlpwOeogGsksCc0jwsI15QEFRiNhBvz34tUftpo)  
+
+### 📎 GitHub Backup
+
+- Index PDF: [docs/Sleep-Instinct_Index-v1.1.pdf](docs/Sleep-Instinct_Index-v1.1.pdf)  
+- SHA256 File: [docs/SHA256_v1.1.txt](docs/SHA256_v1.1.txt)
+
+---
+
+## 🧾 結構封存更新：索引 v1.1 + 雜湊驗證表 v1.1（2025-06-12）
+
+本段為《睡眠本能理論 v1.0》發表後所進行的補充封存記錄，內容包含：
+
+- ✅ 索引 v1.1：收錄全部六份正式文件（中英主體＋四份附件）  
+- ✅ SHA256 雜湊驗證表（v1.1）：用於校驗所有封存 PDF  
+- ✅ 使用手冊（英文與中文）：說明結構邏輯與引用方式  
+
+此為補件補封記錄，不更動主文，僅補齊結構完整性，供引用、驗證與歸屬主張時查用。
+
+### 📂 Arweave 區塊鏈封存連結
+
+- 📘 索引 v1.1：[Arweave](https://arweave.net/PWovorwuAuvELe-ZzdPD-fGrobE2UBECyp0LhnVCjyQ)  
+- 📘 使用手冊（英文）：[Arweave](https://arweave.net/xL-hltQxtf8KGbpX4yg3xaW6jCvn9OObHVakuF7CkKY)  
+- 📘 使用手冊（中文）：[Arweave](https://arweave.net/Ei6TyUu1LOp-yP1uJZzEXJc-CVsuTgdvwDIIZEnd1Oo)  
+- 🧾 雜湊清單（v1.1）：[Arweave](https://arweave.net/Qx3OnlpwOeogGsksCc0jwsI15QEFRiNhBvz34tUftpo)  
+
+### 📎 GitHub 備份連結
+
+- 索引 PDF：[docs/Sleep-Instinct_Index-v1.1.pdf](docs/Sleep-Instinct_Index-v1.1.pdf)  
+- SHA256：[docs/SHA256_v1.1.txt](docs/SHA256_v1.1.txt)
+
+---
+
 ## 📘 Sleep Instinct Theory — Blockchain-Sealed Index
 
 All core files of this project have been officially sealed on Arweave.  
