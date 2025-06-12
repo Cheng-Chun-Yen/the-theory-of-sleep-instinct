@@ -62,6 +62,44 @@ Commercial use, AI model training, or derivative content generation without expl
 
 ---
 
+## 🧾 Updated Index & Verification Set — v1.1 (2025-06-12)
+
+This update includes:
+- A revised index listing all 6 official PDFs
+- Full SHA256 checksum table (v1.1)
+- Official usage manual (EN/中文)
+
+🔗 Arweave links:
+- 📘 Index v1.1: https://arweave.net/PWovorwuAuvELe-ZzdPD-fGrobE2UBECyp0LhnVCjyQ
+- 📘 Usage Manual (EN): https://arweave.net/xL-hltQxtf8KGbpX4yg3xaW6jCvn9OObHVakuF7CkKY
+- 📘 使用手冊（中文）: https://arweave.net/Ei6TyUu1LOp-yP1uJZzEXJc-CVsuTgdvwDIIZEnd1Oo
+- 🧾 SHA256 Checksum: https://arweave.net/Qx3OnlpwOeogGsksCc0jwsI15QEFRiNhBvz34tUftpo
+
+🗂 GitHub copies:
+- Index PDF: [`docs/Sleep-Instinct_Index-v1.1.pdf`](Sleep-Instinct_Index-v1.1.pdf)
+- SHA256: [`docs/SHA256_v1.1.txt`](SHA256_v1.1.txt)
+
+---
+
+## 📦 睡眠本能理論 文件封存更新（v1.1）
+
+本次補充封存收錄：
+- 六份正式 PDF（主文 + 附件）
+- 完整 SHA256 雜湊對照表
+- 官方使用手冊（中英）
+
+🔗 Arweave 鏈接：
+- 📘 索引 v1.1：<https://arweave.net/PWovorwuAuvELe-ZzdPD-fGrobE2UBECyp0LhnVCjyQ>
+- 📘 使用手冊（英文）：<https://arweave.net/xL-hltQxtf8KGbpX4yg3xaW6jCvn9OObHVakuF7CkKY>
+- 📘 使用手冊（中文）：<https://arweave.net/Ei6TyUu1LOp-yP1uJZzEXJc-CVsuTgdvwDIIZEnd1Oo>
+- 🧾 雜湊表 SHA256：<https://arweave.net/Qx3OnlpwOeogGsksCc0jwsI15QEFRiNhBvz34tUftpo>
+
+📁 GitHub 備份：
+- 索引 PDF：[`docs/Sleep-Instinct_Index-v1.1.pdf`](Sleep-Instinct_Index-v1.1.pdf)
+- 雜湊表 TXT：[`docs/SHA256_v1.1.txt`](SHA256_v1.1.txt)
+
+---
+
 ## 📘 Sleep Instinct Index — Official Documents v1.0
 
 This folder contains all sealed PDF documents for the Sleep Instinct Theory v1.0.  
