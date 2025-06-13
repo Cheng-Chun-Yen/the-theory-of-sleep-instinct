@@ -1,3 +1,22 @@
+# 🧠 The Theory of Sleep Instinct  
+## © Attribution Notice
+
+All research materials, original terminology, and structural logic in this repository  
+are authored by **Cheng-Chun Yen (顏誠均)** and are protected under **CC BY 4.0 (2025)**.  
+This includes but is not limited to:
+
+- The "Sleep Instinct Theory"
+- The "Posture Hypothesis" and "Parasympathetic Induction Model"
+- All attached PDF files and Markdown explanations
+
+All files are permanently sealed via Arweave and published on GitHub, Zenodo, and Mirror.xyz.  
+Please cite properly when referencing or quoting.
+
+📎 [Zenodo DOI](https://doi.org/10.5281/zenodo.15574197)  
+📎 [Arweave Sealed Index v1.2](https://arweave.net/xXT_trXz4JlfKTBv38JIB1AW_lWtdy9XWVNs_ca9jCs)
+
+---
+
 # Sleep Instinct Theory — Official Documents v1.0
 
 This folder contains sealed PDF documents for the following:
