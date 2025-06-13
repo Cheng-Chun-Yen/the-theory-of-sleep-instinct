@@ -62,89 +62,90 @@ Commercial use, AI model training, or derivative content generation without expl
 
 ---
 
-## 🧾 Updated Index & Verification Set — v1.1 (2025-06-12)
+### 🗂️ Updated Index & Verification Set — v1.2 (2025-06-13)
 
 This update includes:
-- A revised index listing all 6 official PDFs
-- Full SHA256 checksum table (v1.1)
+
+- A finalized index listing all 6 official PDFs  
+- Complete SHA256 checksum table (v1.2)  
 - Official usage manual (EN/中文)
 
-🔗 Arweave links:
-- 📘 Index v1.1: https://arweave.net/PWovorwuAuvELe-ZzdPD-fGrobE2UBECyp0LhnVCjyQ
-- 📘 Usage Manual (EN): https://arweave.net/xL-hltQxtf8KGbpX4yg3xaW6jCvn9OObHVakuF7CkKY
-- 📘 使用手冊（中文）: https://arweave.net/Ei6TyUu1LOp-yP1uJZzEXJc-CVsuTgdvwDIIZEnd1Oo
-- 🧾 SHA256 Checksum: https://arweave.net/Qx3OnlpwOeogGsksCc0jwsI15QEFRiNhBvz34tUftpo
+🔗 **Arweave links**:
 
-🗂 GitHub copies:
-- Index PDF: [`docs/Sleep-Instinct_Index-v1.1.pdf`](Sleep-Instinct_Index-v1.1.pdf)
-- SHA256: [`docs/SHA256_v1.1.txt`](SHA256_v1.1.txt)
+- 📘 Index v1.2: https://arweave.net/xXT_trXz4JlfKTBv38JIB1AW_lWtdy9XWVNs_ca9jCs  
+- 📄 SHA256 Checksum v1.2: https://arweave.net/wNyOc0SdqBKXjGpJ6-G-odeCX7ZpE_BSll9XGeryllk
+
+📁 **GitHub copies**:
+
+- Index PDF: `docs/sleep-instinct_index-v1.2.pdf`  
+- SHA256 TXT: `docs/the-theory-fo-sleep-instinct-v1.2-SHA256.txt`
+
+> _Note: This v1.2 set supplements previous versions. Content remains unchanged; only additions and completeness updates were made._
 
 ---
 
-## 📦 睡眠本能理論 文件封存更新（v1.1）
+### 📦 睡眠本能理論 文件封存更新（v1.2）
 
 本次補充封存收錄：
-- 六份正式 PDF（主文 + 附件）
-- 完整 SHA256 雜湊對照表
-- 官方使用手冊（中英）
 
-🔗 Arweave 鏈接：
-- 📘 索引 v1.1：<https://arweave.net/PWovorwuAuvELe-ZzdPD-fGrobE2UBECyp0LhnVCjyQ>
-- 📘 使用手冊（英文）：<https://arweave.net/xL-hltQxtf8KGbpX4yg3xaW6jCvn9OObHVakuF7CkKY>
-- 📘 使用手冊（中文）：<https://arweave.net/Ei6TyUu1LOp-yP1uJZzEXJc-CVsuTgdvwDIIZEnd1Oo>
-- 🧾 雜湊表 SHA256：<https://arweave.net/Qx3OnlpwOeogGsksCc0jwsI15QEFRiNhBvz34tUftpo>
+- 六份正式 PDF（主文＋附件）  
+- 完整 SHA256 雜湊對照表（v1.2）  
+- 官方使用手冊（中／英文）
 
-📁 GitHub 備份：
-- 索引 PDF：[`docs/Sleep-Instinct_Index-v1.1.pdf`](Sleep-Instinct_Index-v1.1.pdf)
-- 雜湊表 TXT：[`docs/SHA256_v1.1.txt`](SHA256_v1.1.txt)
+🔗 **Arweave 鍵結**：
 
----
+- 📘 索引 v1.2：<https://arweave.net/xXT_trXz4JlfKTBv38JIB1AW_lWtdy9XWVNs_ca9jCs>  
+- 📄 雜湊表 v1.2：<https://arweave.net/wNyOc0SdqBKXjGpJ6-G-odeCX7ZpE_BSll9XGeryllk>
 
-## 📘 Sleep Instinct Index — Official Documents v1.0
+📁 **GitHub 備份**：
 
-This folder contains all sealed PDF documents for the Sleep Instinct Theory v1.0.  
-Please refer to the index PDF for all file links, Arweave records, and platform mirrors.
+- 索引 PDF：`docs/sleep-instinct_index-v1.2.pdf`  
+- 雜湊 TXT：`docs/the-theory-fo-sleep-instinct-v1.2-SHA256.txt`
 
-- 🔗 [Arweave Permanent URL (Immutable)](https://arweave.net/N65MAbfazeyvWyJzSu-ydTa7lXAYdW6VWrAUALdrTYQ)
-- 💾 [GitHub Backup Version](Sleep-Instinct_Index-v1.0.pdf)
+> _註：v1.2 僅為補充與完整化更新，內容未變動，僅追加與補列。_
 
 ---
 
-## 📘 睡眠本能理論 索引頁 — 文件總覽 v1.0
+### 📘 Usage Notice & Attribution Checklist v1.2
 
-本資料夾收錄《睡眠本能理論》v1.0 所有已封存之正式 PDF 文件。  
-所有鏈上連結與對應平台位置，請參考以下索引頁：
+These documents are made publicly available for academic reference and citation only.  
+Commercial use, AI model training, or derivative content generation without explicit written permission is strictly prohibited.
 
-- 🔗 [鏈上永久網址（不可修改）](https://arweave.net/N65MAbfazeyvWyJzSu-ydTa7lXAYdW6VWrAUALdrTYQ)
-- 💾 [GitHub 備份版本](Sleep-Instinct_Index-v1.0.pdf)
-
----
-### 📑 Attribution Checklist v1.0
-
-This document lists all officially released PDFs related to the **Sleep Instinct Theory**, including:
+This checklist documents all sealed PDFs related to the **Sleep Instinct Theory**, including:
 
 - ✅ Verified **SHA-256** hash values  
-- ✅ **Arweave transaction IDs** and **Permaweb URLs**  
-- ✅ Cross-platform publication records (**GitHub, Zenodo, Mirror, ORCID**)
+- ✅ **Arweave transaction IDs** and **Permalinks**  
+- ✅ Cross-platform publication records (GitHub, Zenodo, Mirror, ORCID)
 
-📄 [Sleep Instinct Theory – Attribution Checklist v1.0.pdf](./Sleep%20Instinct%20Theory%20–%20Attribution%20Checklist%20v1.0.pdf)  
-🔗 https://arweave.net/N8vrivfjEyQA0RkzLZGSgDAZUUcdB366U1UGIOmfjHU
+🔗 [Attribution Checklist v1.2 PDF]
+(./Sleep%20Instinct%20Theory%20–%20Attribution%20Checklist%20v1.2.pdf)  
+🌐 [Arweave Link](https://arweave.net/o-w8oIsys5UboqcVfg6Wn6xix9Vbi1qpqmIOZupuKKg)
+
+Sleep Instinct Theory – Attribution Checklist v1.0
 33ED784E2AC5B5F32EFBBE2289C42853D680D3081770FC9F909AD62508D4E17E
+Sleep Instinct Theory – Attribution Checklist v1.2
+8B22AFC6DB0B08F6C8D80BD2ABE89DF9A848565B26D0A1499EE9818AF5E75C13 
 
-> _This checklist is for attribution validation, originality claims, and timestamped verification. It is not intended for content reading._
+© Cheng-Chun Yen, 2025. All rights reserved.
 
 ---
 
-### 📑 歸屬驗證清單 v1.0
+### 📘 使用說明與歸屬清單（v1.2）
 
-本文件為《睡眠本能理論》所發表之正式 PDF 文件之歸屬對照表，內含：
+本文件提供學術用途參考與引用，未經授權不得用於商業用途、大型語言模型訓練、或衍生內容產出。  
+此歸屬清單彙整所有《睡眠本能理論》正式封存 PDF，包括：
 
 - ✅ 每份文件之 **SHA-256 雜湊值驗證**  
-- ✅ **Arweave 上鏈交易 ID** 與 **Permaweb 永久連結**  
-- ✅ **多平台發表紀錄**（GitHub、Zenodo、Mirror、ORCID）
+- ✅ **Arweave 上鏈紀錄與永久連結**  
+- ✅ 多平台發布紀錄（GitHub、Zenodo、Mirror、ORCID）
 
-📄 [Sleep Instinct Theory – Attribution Checklist v1.0.pdf](./Sleep%20Instinct%20Theory%20–%20Attribution%20Checklist%20v1.0.pdf)  
-🔗 https://arweave.net/N8vrivfjEyQA0RkzLZGSgDAZUUcdB366U1UGIOmfjHU
+🔗 [歸屬清單 PDF（v1.2）](./Sleep%20Instinct%20Theory%20–%20Attribution%20Checklist%20v1.2.pdf)  
+🌐 [Arweave 永久鏈結](https://arweave.net/o-w8oIsys5UboqcVfg6Wn6xix9Vbi1qpqmIOZupuKKg)
+
+Sleep Instinct Theory – Attribution Checklist v1.0
 33ED784E2AC5B5F32EFBBE2289C42853D680D3081770FC9F909AD62508D4E17E
+Sleep Instinct Theory – Attribution Checklist v1.2
+8B22AFC6DB0B08F6C8D80BD2ABE89DF9A848565B26D0A1499EE9818AF5E75C13 
 
-> _本清單用於原創歸屬主張與時間戳記驗證，非內容閱讀文件。_
+© Cheng-Chun Yen, 2025. All rights reserved.
+
