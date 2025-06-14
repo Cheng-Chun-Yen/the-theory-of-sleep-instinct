@@ -123,7 +123,7 @@ Independent Researcher, Taipei, Taiwan
 
 ## 🔗 External Links
 
-- 🌐 Mirror.xyz (blockchain publication) → *coming soon*
+- 🌐 [Mirror.xyz (blockchain publication)](https://mirror.xyz/0x6c706D9585A906a648Ecc8FC50Ee2f2E19c2aAF8) 
 - 🧭 Notion – Theory Map & Overview → *coming soon*
 - 📄 Medium / Matters – Theory articles → *planned*
 
@@ -131,7 +131,7 @@ Independent Researcher, Taipei, Taiwan
 
 ## 🔗 外部擴散平台（中文）
 
-- 🌐 Mirror.xyz（理論上鏈存證）→ *即將發布*
+- 🌐 [Mirror.xyz（理論上鏈存證](https://mirror.xyz/0x6c706D9585A906a648Ecc8FC50Ee2f2E19c2aAF8)）
 - 🧭 Notion 理論邏輯導覽地圖 → *建置中*
 - 📄 Medium / Matters（專欄與摘要文）→ *規劃中*
 
@@ -286,7 +286,7 @@ https://arweave.net/xXT_trXz4JlfKTBv38JIB1AW_lWtdy9XWVNs_ca9jCs
 完整封存紀錄請參考以下索引 PDF：
 
 🔗 鏈上封存版本（不可竄改）：  
-https://arweave.net/xXT_trXz4JlfKTBv38JIB1AW_lWtdy9XWVNs_ca9jCs
+[https://arweave.net/xXT_trXz4JlfKTBv38JIB1AW_lWtdy9XWVNs_ca9jCs](https://arweave.net/xXT_trXz4JlfKTBv38JIB1AW_lWtdy9XWVNs_ca9jCs)
 
 📎 GitHub 備份版本：  
 [docs/Sleep-Instinct_Index-v1.2.pdf](docs/Sleep-Instinct_Index-v1.2.pdf)
