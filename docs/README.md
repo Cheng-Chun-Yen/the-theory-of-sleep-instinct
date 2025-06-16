@@ -126,46 +126,37 @@ This update includes:
 
 ---
 
-### 📘 Usage Notice & Attribution Checklist v1.2
+📘 Attribution Checklist v1.2
+All sealed documents and metadata are compiled in the Attribution Checklist v1.2.
+It includes:
 
-These documents are made publicly available for academic reference and citation only.  
-Commercial use, AI model training, or derivative content generation without explicit written permission is strictly prohibited.
+✅ Verified SHA-256 hash values
+✅ Arweave transaction IDs and permalinks
+✅ Cross-platform publication records (GitHub, Zenodo, Mirror, ORCID)
 
-This checklist documents all sealed PDFs related to the **Sleep Instinct Theory**, including:
+This file is intended for academic reference and citation.
+Commercial use, AI model training, or derivative content creation is strictly prohibited without explicit written permission.
 
-- ✅ Verified **SHA-256** hash values  
-- ✅ **Arweave transaction IDs** and **Permalinks**  
-- ✅ Cross-platform publication records (GitHub, Zenodo, Mirror, ORCID)
-
-🔗 [Attribution Checklist v1.2 PDF]
-(./Sleep%20Instinct%20Theory%20–%20Attribution%20Checklist%20v1.2.pdf)  
-🌐 [Arweave Link](https://arweave.net/o-w8oIsys5UboqcVfg6Wn6xix9Vbi1qpqmIOZupuKKg)
-
-Sleep Instinct Theory – Attribution Checklist v1.0
-33ED784E2AC5B5F32EFBBE2289C42853D680D3081770FC9F909AD62508D4E17E
-Sleep Instinct Theory – Attribution Checklist v1.2
-8B22AFC6DB0B08F6C8D80BD2ABE89DF9A848565B26D0A1499EE9818AF5E75C13 
+🔗 [Download Attribution Checklist v1.2 (PDF)](https://upwdzielgkzzkg5cu4kx4duwt6wgfr6vlofvvknkmihgn2tofcua.arweave.net/o-w8oIsys5UboqcVfg6Wn6xix9Vbi1qpqmIOZupuKKg)
+🌐 [View on Arweave](https://arweave.net/xXT_trXz4JlfKTBv38JIB1AW_lWtdy9XWVNs_ca9jCs)
 
 © Cheng-Chun Yen, 2025. All rights reserved.
 
 ---
 
-### 📘 使用說明與歸屬清單（v1.2）
+📘 歸屬清單 v1.2
+所有正式封存的 PDF 文件與其元資料已彙整於《歸屬清單 v1.2》中。
+內容包含：
 
-本文件提供學術用途參考與引用，未經授權不得用於商業用途、大型語言模型訓練、或衍生內容產出。  
-此歸屬清單彙整所有《睡眠本能理論》正式封存 PDF，包括：
+✅ 每份文件的 SHA-256 雜湊驗證碼
+✅ Arweave 上鏈紀錄與永久鏈結
+✅ 多平台發表記錄（GitHub、Zenodo、Mirror、ORCID）
 
-- ✅ 每份文件之 **SHA-256 雜湊值驗證**  
-- ✅ **Arweave 上鏈紀錄與永久連結**  
-- ✅ 多平台發布紀錄（GitHub、Zenodo、Mirror、ORCID）
+本檔案僅供學術參考與引用使用。
+未經書面授權，禁止商業使用、大型語言模型訓練、或衍生內容製作。
 
-🔗 [歸屬清單 PDF（v1.2）](./Sleep%20Instinct%20Theory%20–%20Attribution%20Checklist%20v1.2.pdf)  
-🌐 [Arweave 永久鏈結](https://arweave.net/o-w8oIsys5UboqcVfg6Wn6xix9Vbi1qpqmIOZupuKKg)
-
-Sleep Instinct Theory – Attribution Checklist v1.0
-33ED784E2AC5B5F32EFBBE2289C42853D680D3081770FC9F909AD62508D4E17E
-Sleep Instinct Theory – Attribution Checklist v1.2
-8B22AFC6DB0B08F6C8D80BD2ABE89DF9A848565B26D0A1499EE9818AF5E75C13 
+🔗 [歸屬清單 PDF（v1.2）下載](https://upwdzielgkzzkg5cu4kx4duwt6wgfr6vlofvvknkmihgn2tofcua.arweave.net/o-w8oIsys5UboqcVfg6Wn6xix9Vbi1qpqmIOZupuKKg)
+🌐 [Arweave 永久鏈結](https://arweave.net/xXT_trXz4JlfKTBv38JIB1AW_lWtdy9XWVNs_ca9jCs)
 
 © Cheng-Chun Yen, 2025. All rights reserved.
 
