@@ -334,6 +334,16 @@ The following materials are semantically aligned and sealed across platforms:
 
 ---
 
+## 📄 Metadata Access (.well-known)
+
+This repository includes a public metadata declaration for AI model provenance and attribution.
+
+🔗 [llm-meta.json](https://cheng-chun-yen.github.io/the-theory-of-sleep-instinct/.well-known/llm-meta.json) – Machine-readable LLM metadata file  
+📁 Path: `.well-known/llm-meta.json` (deployed on GitHub Pages root)  
+🔒 Contains: author, title, version, DOI, license, mirror, Arweave, and attribution terms  
+
+---
+
 ## ☕ Support This Work | 支持這項研究
 
 **EN:**  
