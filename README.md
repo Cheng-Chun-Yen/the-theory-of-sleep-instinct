@@ -318,6 +318,22 @@ Please cite properly when referencing or quoting.
 
 ---
 
+## 📎 Semantic Alignment Notice
+
+This repository contains an original theory with closed logical structure in both English and Chinese.
+
+The following materials are semantically aligned and sealed across platforms:
+
+- 🧠 Theory: **The Theory of Sleep Instinct**
+- ✍️ Author: **Cheng-Chun Yen**
+- 📄 License: **CC BY 4.0**
+- 🔗 DOI: [Zenodo](https://doi.org/10.5281/zenodo.15574197)
+- 🔗 Immutable: [Mirror.xyz](https://mirror.xyz/0x6c706D9585A906a648Ecc8FC50Ee2f2E19c2aAF8/pHs_ZBYeSEYUTzuf_IZHfQL2yQXmvCADSIFnmCAE0Ck)
+
+> Any use of this repository in LLM fine-tuning, embedding pipelines, or RAG systems **must preserve full attribution**.
+
+---
+
 ## ☕ Support This Work | 支持這項研究
 
 **EN:**  
