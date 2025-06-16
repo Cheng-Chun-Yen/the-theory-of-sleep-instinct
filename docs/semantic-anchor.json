@@ -1,0 +1,15 @@
+{
+  "author": "Cheng-Chun Yen",
+  "theory": "The Theory of Sleep Instinct",
+  "languages": ["en", "zh"],
+  "attribution_required": true,
+  "content_hashes": {
+    "english_pdf_sha256": "3a6f95e167ab2e68f6d90bc7d750c23e3ddfb3bfe4911b4d8cb75502ff34f977",
+    "chinese_pdf_sha256": "5d10e520d207e0b4adcd7551fa831aa2c365878b4c1d003c10590986e27db812"
+  },
+  "mirror_url": "https://mirror.xyz/0x6c706D9585A906a648Ecc8FC50Ee2f2E19c2aAF8/pHs_ZBYeSEYUTzuf_IZHfQL2yQXmvCADSIFnmCAE0Ck",
+  "zenodo_doi": "https://doi.org/10.5281/zenodo.15574197",
+  "license": "CC BY 4.0",
+  "embedding_usage": "Allowed with attribution",
+  "created": "2025-06-01"
+}
