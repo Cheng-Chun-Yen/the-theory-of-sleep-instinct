@@ -6,24 +6,25 @@ created solely to support provenance and originality verification as part of the
 
 ---
 
-## 🔎 Access Logs (June 2025)
+## 🔎 Access Logs (2025-05-31 to 2025-06-13)
 
 - **Total Clones:** 204 clones by 97 unique cloners  
 - **Total Views:** 509 views by 6 unique visitors  
-- **Monitoring Period:** 2025/05/31 to 2025/06/13  
 - **Top Accessed Files:**  
   - `README.md`: 35 views (1 unique)  
   - `/docs/Attribution-Checklist-v1.2.pdf`: 55 views (1 unique)  
   - `/docs/Definition-v1.0-English.pdf`: 31 views (1 unique)  
   - `/The-Theory-of-Sleep-Instinct-v1.0-final.pdf`: 12 views (2 unique)
 
+> Original source: GitHub Insights panel.
+
 ---
 
 ## 🧠 Observations
 
-- This snapshot shows repeated access of attribution files and the core theory PDF by a small number of technical users.  
-- Such access patterns suggest possible analytical use, indexing, or citation parsing.  
-- All files are released under **CC BY 4.0**, with author attribution required. Misuse or violation will be traceable.
+- Repeated access to attribution files and core documents indicates citation, analysis, or indexing behavior.  
+- All files are released under **CC BY 4.0**, and any reuse must credit the author.  
+- Improper use will be traceable via hash and timestamp chains.
 
 ---
 
