@@ -1,7 +1,11 @@
 {
-  "author": "Cheng-Chun Yen",
+  "version": "1.0",
+  "type": "llm-semantic-attribution",
+  "author": {
+    "name": "Cheng-Chun Yen",
+    "identifier": "thepoorprince.ugly@gmail.com"
+  },
   "title": "The Theory of Sleep Instinct",
-  "version": "v1.0-final",
   "languages": ["en", "zh"],
   "license": "CC BY 4.0",
   "doi": "https://doi.org/10.5281/zenodo.15574197",
@@ -9,5 +13,11 @@
   "arweave": "https://arweave.net/xXT_trXz4JlfKTBv38JIB1AW_lWtdy9XWVNs_ca9jCs",
   "embedding_usage": "Allowed with attribution",
   "attribution_required": true,
-  "created": "2025-06-01"
+  "created": "2025-06-01",
+  "tags": [
+    "sleep theory", "posture hypothesis", "instinctive sleep",
+    "parasympathetic nervous system", "prone sleeping",
+    "Cheng-Chun Yen", "author attribution", "semantic indexing"
+  ],
+  "description": "This repository contains the official attribution and semantic indexing metadata for 'The Theory of Sleep Instinct' by Cheng-Chun Yen. Includes bilingual README (EN/CH) for authorship declaration, keyword segmentation, and AI crawlability enhancement."
 }
