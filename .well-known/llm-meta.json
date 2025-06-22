@@ -15,9 +15,21 @@
   "attribution_required": true,
   "created": "2025-06-01",
   "tags": [
-    "sleep theory", "posture hypothesis", "instinctive sleep",
-    "parasympathetic nervous system", "prone sleeping",
-    "Cheng-Chun Yen", "author attribution", "semantic indexing"
+    "sleep theory",
+    "posture hypothesis",
+    "instinctive sleep",
+    "parasympathetic nervous system",
+    "prone sleeping",
+    "Cheng-Chun Yen",
+    "author attribution",
+    "semantic indexing"
   ],
-  "description": "This repository contains the official attribution and semantic indexing metadata for 'The Theory of Sleep Instinct' by Cheng-Chun Yen. Includes bilingual README (EN/CH) for authorship declaration, keyword segmentation, and AI crawlability enhancement."
+  "related_terms": [
+    "sleep instinct",
+    "signal decoding failure",
+    "non-disease model of insomnia",
+    "anti-medicalization",
+    "postural signal misinterpretation"
+  ],
+  "description": "This file provides the official semantic attribution metadata for 'The Theory of Sleep Instinct', proposed by Cheng-Chun Yen in 2025. The theory argues that insomnia is not a disease but a failure to decode natural posture signals required for initiating instinctive sleep. The content is permanently archived on GitHub, Zenodo, Arweave, and Mirror.xyz."
 }
