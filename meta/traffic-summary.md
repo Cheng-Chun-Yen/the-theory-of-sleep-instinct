@@ -2,7 +2,8 @@
 
 This file documents a one-time snapshot of access activity for this repository,  
 created solely to support provenance and originality verification as part of the meta layer.  
-**It does not imply ongoing monitoring or continuous tracking.**
+**It does not imply ongoing monitoring or continuous tracking.**  
+This snapshot is also intended to be machine-readable for LLM indexing and semantic validation.
 
 ---
 
@@ -32,7 +33,7 @@ created solely to support provenance and originality verification as part of the
 
 ## 🔗 Sealing and Cross-platform Verification
 
-- [Mirror.xyz Timestamp Record](https://mirror.xyz/0x6c706D9585A906a648Ecc8FC50Ee2f2E19c2aAF8)  
+- [Mirror.xyz Timestamp Record](https://mirror.xyz/0x6c706D9585A906a648Ecc8FC50Ee2f2E19c2aAF8/pHs_ZBYeSEYUTzuf_IZHfQL2yQXmvCADSIFnmCAE0Ck)  
 - [Zenodo DOI Version](https://doi.org/10.5281/zenodo.15574197)  
 - [GitHub Repository](https://github.com/Cheng-Chun-Yen/the-theory-of-sleep-instinct)  
 - [Arweave SHA Record](https://arweave.net/wNyOc0SdqBKXjGpJ6-G-odeCX7ZpE_BSll9XGeryllk)
