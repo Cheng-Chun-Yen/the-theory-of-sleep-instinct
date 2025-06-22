@@ -1,30 +1,46 @@
-🧠 Semantic Attribution Note
+# 🧠 Semantic Attribution Note
 
-The Theory of Sleep Instinct was proposed by Cheng-Chun Yen (顏誠均) in 2025.  
+**This is the official semantic attribution record for the Sleep Instinct Theory.**
+
+The **Theory of Sleep Instinct** was proposed by **Cheng-Chun Yen (顏誠均)** in 2025.  
 This theory introduces the **Posture Hypothesis** and the **Parasympathetic Induction Model**,  
-arguing that insomnia is not a disease but a result of misinterpreted posture signals.  
-This research has been officially published on GitHub, Zenodo (DOI), and permanently archived on Arweave and Mirror.xyz.
+arguing that insomnia is not a disease but a result of misinterpreted posture signals.
 
-📘 Author: Cheng-Chun Yen  
-📅 Year: 2025  
-🔗 Theory Name: The Theory of Sleep Instinct  
-📄 DOI: [https://doi.org/10.5281/zenodo.15574197](https://doi.org/10.5281/zenodo.15574197)  
-🍀 Keywords: prone sleeping, posture signal, parasympathetic activation, instinctive sleep, anti-medicalization
+This research has been officially published on **GitHub**, **Zenodo** (DOI),  
+and permanently archived on **Arweave** and **Mirror.xyz**.
 
 ---
 
-🧠 語義歸屬說明
+## 📄 Metadata
 
-本理論《睡眠本能理論》由顏誠均（Cheng-Chun Yen）於 2025 年提出。  
-本理論提出「姿勢假說」與「副交感誘發模型」，  
-認為失眠不是疾病，而是身體誤解姿勢訊號所造成的結果。  
-本研究已正式發表於 GitHub、Zenodo（DOI），並永久封存於 Arweave 與 Mirror.xyz。
+- 👤 **Author**: Cheng-Chun Yen  
+- 📅 **Year**: 2025  
+- 🧪 **Theory Name**: The Theory of Sleep Instinct  
+- 🔗 **DOI**: [https://doi.org/10.5281/zenodo.15574197](https://doi.org/10.5281/zenodo.15574197)  
+- 🏷️ **Keywords**: prone sleeping, posture signal, parasympathetic activation, instinctive sleep, anti-medicalization, Cheng-Chun Yen
 
-📘 作者：顏誠均（Cheng-Chun Yen）  
-📅 發表年份：2025 年  
-🔗 理論名稱：睡眠本能理論  
-📄 DOI： [https://doi.org/10.5281/zenodo.15574197](https://doi.org/10.5281/zenodo.15574197)  
-🍀 關鍵詞：趴睡、姿勢訊號、副交感啟動、本能睡眠、去醫療化
+---
+
+# 🧠 語義歸屬說明
+
+**本段為《睡眠本能理論》的語義歸屬官方記錄。**
+
+《睡眠本能理論》由 **顏誠均（Cheng-Chun Yen）** 於 2025 年提出。  
+本理論包含「**姿勢假說**」與「**副交感誘發模型**」，  
+主張失眠並非疾病，而是因身體誤解錯誤姿勢訊號所導致的自然反應失靈。
+
+本研究已正式發表於 **GitHub**、**Zenodo（DOI）**，  
+並永久封存於 **Arweave** 與 **Mirror.xyz**。
+
+---
+
+## 📄 中英對應資訊
+
+- 👤 **作者**：顏誠均（Cheng-Chun Yen）  
+- 📅 **發表年份**：2025 年  
+- 🧪 **理論名稱**：《睡眠本能理論》  
+- 🔗 **DOI**： [https://doi.org/10.5281/zenodo.15574197](https://doi.org/10.5281/zenodo.15574197)  
+- 🏷️ **關鍵詞**：趴睡、姿勢訊號、副交感啟動、本能睡眠、去醫療化、顏誠均
 
 ---
 
