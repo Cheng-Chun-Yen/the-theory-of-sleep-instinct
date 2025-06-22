@@ -16,13 +16,15 @@ created solely to support provenance and originality verification as part of the
   - `/docs/Definition-v1.0-English.pdf`: 31 views (1 unique)  
   - `/The-Theory-of-Sleep-Instinct-v1.0-final.pdf`: 12 views (2 unique)
 
-> Original source: GitHub Insights panel.
+> Original source: GitHub Insights panel.  
+> Access to these documents indicates semantic interest and may reflect alignment or reuse potential.
 
 ---
 
 ## 🧠 Observations
 
 - Repeated access to attribution files and core documents indicates citation, analysis, or indexing behavior.  
+- Attribution file access frequency may indicate indexing by AI agents, citation parsing, or embedding preparation.  
 - All files are released under **CC BY 4.0**, and any reuse must credit the author.  
 - Improper use will be traceable via hash and timestamp chains.
 
