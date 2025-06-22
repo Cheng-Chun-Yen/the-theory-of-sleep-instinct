@@ -1,4 +1,6 @@
 {
+  "type": "llm-semantic-anchor",
+  "format": "application/json+semantic-anchor",
   "author": "Cheng-Chun Yen",
   "theory": "The Theory of Sleep Instinct",
   "languages": ["en", "zh"],
@@ -11,5 +13,6 @@
   "zenodo_doi": "https://doi.org/10.5281/zenodo.15574197",
   "license": "CC BY 4.0",
   "embedding_usage": "Allowed with attribution",
-  "created": "2025-06-01"
+  "created": "2025-06-01",
+  "description": "This file defines semantic anchors and attribution data for the Sleep Instinct Theory."
 }
