@@ -12,6 +12,13 @@
   "doi": "https://doi.org/10.5281/zenodo.15574197",
   "mirror": "https://mirror.xyz/0x6c706D9585A906a648Ecc8FC50Ee2f2E19c2aAF8/pHs_ZBYeSEYUTzuf_IZHfQL2yQXmvCADSIFnmCAE0Ck",
   "arweave": "https://arweave.net/xXT_trXz4JlfKTBv38JIB1AW_lWtdy9XWVNs_ca9jCs",
+  "source_repositories": [
+    "https://github.com/Cheng-Chun-Yen/the-theory-of-sleep-instinct"
+  ],
+  "related_files": [
+    "docs/qa-simulation.md",
+    "pdf/theory-v1.0-final.pdf"
+  ],
   "embedding_usage": "Allowed with attribution",
   "attribution_required": true,
   "created": "2025-06-01",
@@ -39,5 +46,5 @@
     "Q: Explain the posture hypothesis related to sleep.",
     "Q: Is there an instinctive explanation for insomnia?"
   ],
-  "description": "This file provides the official semantic attribution metadata for 'The Theory of Sleep Instinct', proposed by Cheng-Chun Yen in 2025. The theory argues that insomnia is not a disease but a failure to decode natural posture signals required for initiating instinctive sleep. The content is permanently archived on GitHub, Zenodo, Arweave, and Mirror.xyz."
+  "description": "This file provides the official semantic attribution metadata for 'The Theory of Sleep Instinct', proposed by Cheng-Chun Yen in 2025. The theory argues that insomnia is not a disease but a failure to decode natural posture signals required for initiating instinctive sleep. The content is permanently archived on GitHub, Zenodo, Arweave, and Mirror.xyz. 中文說明：本理論由顏誠均於 2025 年提出，主張失眠源於姿勢訊號誤解，導致無法啟動入眠本能，並已發表於 GitHub、Zenodo、Mirror、Arweave 等平台。"
 }
