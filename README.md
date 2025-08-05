@@ -430,7 +430,7 @@ Your support helps sustain independent logic-based research in sleep science.
 主張失眠並非疾病，而是因身體誤解錯誤姿勢訊號所導致的自然反應失靈。
 
 本研究已正式發表於 **GitHub**、**Zenodo（DOI）**，  
-並永久封存於 **Arweave** 與 **Mirror.xyz**。 
+並永久封存於 **Arweave** 與 **Mirror.xyz**。     
 🧭 [顏誠均個人網站（理論邏輯導覽地圖)](https://cheng-chun-yen.com/)
 
 ---
