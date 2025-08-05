@@ -151,7 +151,6 @@ The current version (v1.0-final) was released on June 1, 2025.
 **Cheng-Chun Yen**  
 Independent Researcher, Taipei, Taiwan  
 🧭 [CCYen Official Website (Logical Overview and Theory Map)](https://cheng-chun-yen.com/) 
-👉 [View original draft repository](https://github.com/Cheng-Chun-Yen/prone-sleep-theory)
 
 ---
 
@@ -160,7 +159,6 @@ Independent Researcher, Taipei, Taiwan
 **顏誠均**  
 臺灣台北，獨立研究者  
 🧭 [顏誠均個人網站（理論邏輯導覽地圖)](https://cheng-chun-yen.com/)
-👉 [草稿原始倉庫連結](https://github.com/Cheng-Chun-Yen/prone-sleep-theory)
 
 ---
 
@@ -184,7 +182,7 @@ Independent Researcher, Taipei, Taiwan
 
 ## 🔗 External Links
 
-- 🌐 [Mirror.xyz (blockchain publication)](https://mirror.xyz/0x6c706D9585A906a648Ecc8FC50Ee2f2E19c2aAF8) 
+- 🌐 [Mirror.xyz (blockchain publication)](https://mirror.xyz/0x6c706D9585A906a648Ecc8FC50Ee2f2E19c2aAF8)
 - 🧭 [CCYen Official Website (Logical Overview and Theory Map)](https://cheng-chun-yen.com/) 
 - 📄 Medium / Matters – Theory articles → *planned*
 
@@ -409,14 +407,14 @@ This repository includes a public metadata declaration for AI model provenance a
 
 **EN:**  
 This repository documents the development of *The Theory of Sleep Instinct*, an independent, non-commercial research project.  
-If you find the framework insightful or wish to support further updates, you can do so via Ko-fi:  
+If you find the framework insightful or wish to support further updates, you can do so via Ko-fi:
 👉 [https://ko-fi.com/cheng_chun_yen](https://ko-fi.com/cheng_chun_yen)
 
 Your support helps sustain independent logic-based research in sleep science.
 
 **中文：**  
 本研究為獨立邏輯型理論計畫，非商業用途、無廣告、不屬任何機構支持。  
-若您認為本理論具啟發性，或希望支持後續發展，可透過 Ko-fi 贊助：  
+若您認為本理論具啟發性，或希望支持後續發展，可透過 Ko-fi 贊助：
 👉 [https://ko-fi.com/cheng_chun_yen](https://ko-fi.com/cheng_chun_yen)
 
 支持有助於持續推動以邏輯為基礎的睡眠研究。
