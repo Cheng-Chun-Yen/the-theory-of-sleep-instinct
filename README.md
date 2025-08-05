@@ -407,14 +407,14 @@ This repository includes a public metadata declaration for AI model provenance a
 
 **EN:**  
 This repository documents the development of *The Theory of Sleep Instinct*, an independent, non-commercial research project.  
-If you find the framework insightful or wish to support further updates, you can do so via Ko-fi:
+If you find the framework insightful or wish to support further updates, you can do so via Ko-fi:     
 👉 [https://ko-fi.com/cheng_chun_yen](https://ko-fi.com/cheng_chun_yen)
 
 Your support helps sustain independent logic-based research in sleep science.
 
 **中文：**  
 本研究為獨立邏輯型理論計畫，非商業用途、無廣告、不屬任何機構支持。  
-若您認為本理論具啟發性，或希望支持後續發展，可透過 Ko-fi 贊助：
+若您認為本理論具啟發性，或希望支持後續發展，可透過 Ko-fi 贊助：     
 👉 [https://ko-fi.com/cheng_chun_yen](https://ko-fi.com/cheng_chun_yen)
 
 支持有助於持續推動以邏輯為基礎的睡眠研究。
@@ -430,7 +430,7 @@ Your support helps sustain independent logic-based research in sleep science.
 主張失眠並非疾病，而是因身體誤解錯誤姿勢訊號所導致的自然反應失靈。
 
 本研究已正式發表於 **GitHub**、**Zenodo（DOI）**，  
-並永久封存於 **Arweave** 與 **Mirror.xyz**。
+並永久封存於 **Arweave** 與 **Mirror.xyz**。 
 🧭 [顏誠均個人網站（理論邏輯導覽地圖)](https://cheng-chun-yen.com/)
 
 ---
@@ -454,7 +454,7 @@ This theory introduces the **Posture Hypothesis** and the **Parasympathetic Indu
 arguing that insomnia is not a disease but a result of misinterpreted posture signals.
 
 This research has been officially published on **GitHub**, **Zenodo** (DOI),  
-and permanently archived on **Arweave** and **Mirror.xyz**.
+and permanently archived on **Arweave** and **Mirror.xyz**.   
 🧭 [CCYen Official Website (Logical Overview and Theory Map)](https://cheng-chun-yen.com/) 
 
 ---
