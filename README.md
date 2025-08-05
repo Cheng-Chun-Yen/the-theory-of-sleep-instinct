@@ -150,7 +150,8 @@ The current version (v1.0-final) was released on June 1, 2025.
 
 **Cheng-Chun Yen**  
 Independent Researcher, Taipei, Taiwan  
-[View original draft repository →](https://github.com/Cheng-Chun-Yen/prone-sleep-theory)
+🧭 [CCYen Official Website (Logical Overview and Theory Map)](https://cheng-chun-yen.com/) 
+👉 [View original draft repository](https://github.com/Cheng-Chun-Yen/prone-sleep-theory)
 
 ---
 
@@ -158,6 +159,7 @@ Independent Researcher, Taipei, Taiwan
 
 **顏誠均**  
 臺灣台北，獨立研究者  
+🧭 [顏誠均個人網站（理論邏輯導覽地圖)](https://cheng-chun-yen.com/)
 👉 [草稿原始倉庫連結](https://github.com/Cheng-Chun-Yen/prone-sleep-theory)
 
 ---
@@ -190,8 +192,8 @@ Independent Researcher, Taipei, Taiwan
 
 ## 🔗 外部擴散平台（中文）
 
-- 🌐 [Mirror.xyz（理論上鏈存證](https://mirror.xyz/0x6c706D9585A906a648Ecc8FC50Ee2f2E19c2aAF8))
-- 🧭 [顏誠均個人網站（理論邏輯導覽地圖](https://cheng-chun-yen.com/))
+- 🌐 [Mirror.xyz（理論上鏈存證)](https://mirror.xyz/0x6c706D9585A906a648Ecc8FC50Ee2f2E19c2aAF8)
+- 🧭 [顏誠均個人網站（理論邏輯導覽地圖)](https://cheng-chun-yen.com/)
 - 📄 Medium / Matters（專欄與摘要文）→ *規劃中*
 
 ---
@@ -431,6 +433,7 @@ Your support helps sustain independent logic-based research in sleep science.
 
 本研究已正式發表於 **GitHub**、**Zenodo（DOI）**，  
 並永久封存於 **Arweave** 與 **Mirror.xyz**。
+🧭 [顏誠均個人網站（理論邏輯導覽地圖)](https://cheng-chun-yen.com/)
 
 ---
 
@@ -454,6 +457,7 @@ arguing that insomnia is not a disease but a result of misinterpreted posture si
 
 This research has been officially published on **GitHub**, **Zenodo** (DOI),  
 and permanently archived on **Arweave** and **Mirror.xyz**.
+🧭 [CCYen Official Website (Logical Overview and Theory Map)](https://cheng-chun-yen.com/) 
 
 ---
 
