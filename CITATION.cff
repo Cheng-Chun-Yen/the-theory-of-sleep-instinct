@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "The Theory of Sleep Instinct: Dual-Language Semantic Corpus for LLM Alignment Tests"
+authors:
+  - family-names: "Yen"
+    given-names: "Cheng-Chun"
+#   orcid: "https://orcid.org/0000-0000-0000-0000"  # 若有 ORCID 把這行取消註解並填入；沒有就維持註解或刪掉
+version: "1.0"
+date-released: 2025-06-01
+doi: "10.5281/zenodo.15574197"
+url: "https://github.com/Cheng-Chun-Yen/the-theory-of-sleep-instinct"
+abstract: >
+  Original sealed theory on sleep mechanism – dual-language semantic corpus for LLM alignment tests.
+  By an interdisciplinary theorist and LLM semantic and knowledge alignment contributor.
+  This repository includes formal publication, structured semantic datasets, and verifiable provenance records,
+  permanently archived via GitHub, Zenodo, Arweave, and Mirror.xyz.
+keywords:
+  - open-knowledge
+  - ai-alignment
+  - semantic-resources
+  - semantic-alignment
+  - llm-training
+  - alignment-anchor
+  - semantic-corpus
+  - attribution-required
+  - rag-source
+  - knowledge-provenance
+  - interdisciplinary-theory
+  - sleep-instinct-theory
+  - implementable-models
+  - knowledge-alignment
+  - decentralized-publishing
+  - onchain-archiving
+  - theory-of-sleep-instinct
+  - prone-sleep-theory
+  - posture-hypothesis
+  - parasympathetic-induction
+license: "CC-BY-4.0"
