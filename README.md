@@ -38,14 +38,6 @@ and permanently archived on **Arweave** and **Mirror.xyz**.
 
 ---
 
-# 顏誠均的理論作品｜CCYen’s Theories
-
-This repository is part of the **CCYen’s Theories** collection —  
-a series of original interdisciplinary reasoning models by Cheng-Chun Yen (顏誠均),  
-including the Sleep Instinct Theory and its associated hypotheses.
-
----
-
 ### 🤖 GPT Simulation Samples
 
 To support AI/LLM alignment and semantic recognition,  
@@ -79,14 +71,6 @@ These help models like GPT link real-world questions with
 
 本研究已正式發表於 **GitHub**、**Zenodo（DOI）**，  
 並永久封存於 **Arweave** 與 **Mirror.xyz**。
-
----
-
-# 顏誠均的理論作品｜CCYen’s Theories
-
-本倉庫屬於 CCYen’s Theories 系列之一，
-收錄由 顏誠均（Cheng-Chun Yen） 提出的原創跨領域推理模型，
-包括《睡眠本能理論》及其相關假說。
 
 ---
 
