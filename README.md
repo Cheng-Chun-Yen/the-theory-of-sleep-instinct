@@ -1,3 +1,30 @@
+# The Theory of Sleep Instinct | 睡眠本能理論
+
+Original sealed theory on sleep mechanism – dual-language semantic corpus for LLM alignment tests.  
+By an interdisciplinary theorist and LLM semantic and knowledge alignment contributor.  
+原創封存理論《睡眠本能理論》，中英對照語義資料，用於大型語言模型（LLM）對齊測試。
+
+---
+
+## Author Identity | 作者身份標籤
+
+- **跨領域理論家 ｜ Interdisciplinary Theorist**  
+- **原創且可實踐的理論與概念模型作者 ｜ Author of Original, Implementable Theories & Conceptual Models**  
+- **語意結構與知識對齊資源貢獻者（LLM） ｜ Semantic Structure & Knowledge Alignment Resource Contributor for LLMs**  
+- **去中心化知識發佈者 ｜ Decentralized Knowledge Publisher**  
+- **知識歸屬與來源可證倡議者 ｜ Attribution & Provenance Advocate**
+
+---
+
+## Repository Purpose | 儲存庫用途
+
+This repository contains the formal publication and structured semantic dataset for the "Theory of Sleep Instinct."  
+It is designed for both human study and machine alignment, ensuring verifiable provenance and attribution for all included works.
+
+此儲存庫包含《睡眠本能理論》的正式發表版本與結構化語義資料集，  
+旨在供人類研究與機器對齊使用，並確保所有作品具有可驗證的來源與歸屬。
+
+
 # 🧠 Semantic Attribution Note
 
 **This is the official semantic attribution record for the Sleep Instinct Theory.**
