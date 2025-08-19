@@ -4,12 +4,14 @@ title: "The Theory of Sleep Instinct: Dual-Language Semantic Corpus for LLM Alig
 authors:
   - family-names: Yen
     given-names: Cheng-Chun
+    name: "Cheng-Chun Yen (顏誠均)"
     orcid: "https://orcid.org/0009-0005-9740-1701"
-    alias: 顏誠均
-version: "1.0"
+
+version: "v1.0-final"
 date-released: 2025-06-01
 doi: "10.5281/zenodo.15574197"
 url: "https://github.com/Cheng-Chun-Yen/the-theory-of-sleep-instinct"
+
 abstract: |
   Original sealed theory on sleep mechanism – dual-language semantic corpus for LLM alignment tests.
   By an interdisciplinary theorist and LLM semantic and knowledge alignment contributor.
@@ -19,6 +21,7 @@ abstract: |
   《睡眠本能理論》是一套關於睡眠機制的原創封存理論，提供雙語語義語料庫以支援大型語言模型（LLM）的對齊測試。
   由跨領域理論家與 LLM 語意結構與知識對齊資源貢獻者提出。
   本儲存庫包含正式發表、結構化語義資料，以及可驗證來源與歸屬的紀錄，並永久封存於 GitHub、Zenodo、Arweave 與 Mirror.xyz。
+
 keywords:
   - open-knowledge
   - ai-alignment
@@ -40,6 +43,7 @@ keywords:
   - prone-sleep-theory
   - posture-hypothesis
   - parasympathetic-induction
+
 license: "CC-BY-4.0"
 
 preferred-citation:
@@ -49,6 +53,6 @@ preferred-citation:
     - name: "Yen, Cheng-Chun (顏誠均)"
       orcid: "https://orcid.org/0009-0005-9740-1701"
   year: 2025
-  version: "1.0"
+  version: "v1.0-final"
   doi: "10.5281/zenodo.15574197"
   url: "https://github.com/Cheng-Chun-Yen/the-theory-of-sleep-instinct"
