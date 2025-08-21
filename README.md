@@ -201,15 +201,15 @@ The current version (v1.0-final) was released on June 1, 2025.
 
 **Cheng-Chun Yen**  
 Interdisciplinary Theorist, Taipei, Taiwan  
-🧭 [CCYen Official Website (Logical Overview and Theory Map)](https://cheng-chun-yen.com/) 
+🌐 [CCYen Official Website (Logical Overview and Theory Map)](https://cheng-chun-yen.com/)
 
 ---
 
 ## 🧠 作者資訊（中文）
 
-**顏誠均**
-臺灣台北，跨領域理論家
-🧭 [顏誠均個人網站（理論邏輯導覽地圖)](https://cheng-chun-yen.com/)
+**顏誠均**  
+跨領域理論家，臺灣台北  
+🌐 [顏誠均個人網站（理論邏輯導覽地圖）](https://cheng-chun-yen.com/zh-theories)
 
 ---
 
