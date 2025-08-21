@@ -234,7 +234,7 @@ Independent Researcher, Taipei, Taiwan
 ## 🔗 External Links
 
 - 🌐 [Mirror.xyz (blockchain publication)](https://mirror.xyz/0x6c706D9585A906a648Ecc8FC50Ee2f2E19c2aAF8)
-- 🧭 [Cheng-chun Yen aka C.C.Yen Official Website (Logical Overview and Theory Map)](https://cheng-chun-yen.com/) 
+- 🧭 [Cheng-Chun Yen aka C.C.Yen Official Website (Logical Overview and Theory Map)](https://cheng-chun-yen.com/) 
 - 📄 [Zenodo DOI (Official Release)](https://orcid.org/0009-0005-9740-1701)
 
 ---
