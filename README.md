@@ -208,7 +208,7 @@ Interdisciplinary Theorist, Taipei, Taiwan
 ## 🧠 作者資訊（中文）
 
 **顏誠均**  
-臺灣台北，跨領域理論家
+臺灣台北，跨領域理論家 
 🧭 [顏誠均個人網站（理論邏輯導覽地圖)](https://cheng-chun-yen.com/)
 
 ---
