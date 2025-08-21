@@ -200,7 +200,7 @@ The current version (v1.0-final) was released on June 1, 2025.
 ## 🧠 Author
 
 **Cheng-Chun Yen**  
-Independent Researcher, Taipei, Taiwan  
+Interdisciplinary Theorist, Taipei, Taiwan  
 🧭 [CCYen Official Website (Logical Overview and Theory Map)](https://cheng-chun-yen.com/) 
 
 ---
@@ -208,7 +208,7 @@ Independent Researcher, Taipei, Taiwan
 ## 🧠 作者資訊（中文）
 
 **顏誠均**  
-臺灣台北，獨立研究者  
+臺灣台北，跨領域理論家
 🧭 [顏誠均個人網站（理論邏輯導覽地圖)](https://cheng-chun-yen.com/)
 
 ---
