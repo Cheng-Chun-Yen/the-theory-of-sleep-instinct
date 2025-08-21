@@ -234,16 +234,16 @@ Independent Researcher, Taipei, Taiwan
 ## 🔗 External Links
 
 - 🌐 [Mirror.xyz (blockchain publication)](https://mirror.xyz/0x6c706D9585A906a648Ecc8FC50Ee2f2E19c2aAF8)
-- 🧭 [CCYen Official Website (Logical Overview and Theory Map)](https://cheng-chun-yen.com/) 
-- 📄 Medium / Matters – Theory articles → *planned*
+- 🧭 [Cheng-chun Yen aka C.C.Yen Official Website (Logical Overview and Theory Map)](https://cheng-chun-yen.com/) 
+- 📄 [Zenodo DOI (Official Release)](https://orcid.org/0009-0005-9740-1701)
 
 ---
 
-## 🔗 外部擴散平台（中文）
+## 🔗 外部連結
 
 - 🌐 [Mirror.xyz（理論上鏈存證)](https://mirror.xyz/0x6c706D9585A906a648Ecc8FC50Ee2f2E19c2aAF8)
 - 🧭 [顏誠均個人網站（理論邏輯導覽地圖)](https://cheng-chun-yen.com/)
-- 📄 Medium / Matters（專欄與摘要文）→ *規劃中*
+- 📄 [Zenodo DOI (Official Release)](https://orcid.org/0009-0005-9740-1701)
 
 ---
 
